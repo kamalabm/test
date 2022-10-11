@@ -252,4 +252,203 @@ Untracked files:
 	[31mtypescript[m
 
 nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit add --all
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit add --all[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit status[?2004l
+On branch new-feature
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   new-file.txt[m
+	[32mnew file:   typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit commit -m "New file added."[?2004l
+[new-feature 4839b41] New file added.
+ 2 files changed, 255 insertions(+)
+ create mode 100644 new-file.txt
+ create mode 100644 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hlls -a  [?2004l
+index.md	new-directory	new-file.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hlls[?2004l
+index.md	new-directory	new-file.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit merge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hsstatus[?2004l
+zsh: command not found: status
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit status[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branchstatus[10Dstatus    git merge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch -d new-feature[?2004l
+error: Cannot delete branch 'new-feature' checked out at '/Users/kamalaboumekhael/githubworkshop-20221011'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hbbit  b  ggit checkout new-fe              bra   checkout new-feature[?2004l
+M	typescript
+Already on 'new-feature'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout new-feature           master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit status[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit add    g  ggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hbbit b g[3Cbranchstatuscheckout masternew-feature[20Dbranch -d new-feature[21Dmerge[4P[12C    [?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout master[19D                   [19Dggit commit -m "add   Adee  ded a new file."[?2004l
+On branch new-feature
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit log[?2004l
+[?1h=[33mcommit 4839b41f4b7b83fa0b57bdbac54e4a63aa1630f2[m[33m ([m[1;36mHEAD -> [m[1;32mnew-feature[m[33m)[m[m
+Author: kamalabm <kamal.abm@gmail.com>[m
+Date:   Tue Oct 11 10:58:21 2022 -0700[m
+[m
+    New file added.[m
+[m
+[33mcommit c0b786b9736e7c93367bf65f89ab4fa205beba52[m[33m ([m[1;32mmaster[m[33m)[m[m
+Author: kamalabm <kamal.abm@gmail.com>[m
+Date:   Tue Oct 11 10:48:37 2022 -0700[m
+[m
+    Removed the second line.[m
+[m
+[33mcommit 485fd2bf3e35269512f882201d89fcc755614d41[m[m
+Author: kamalabm <kamal.abm@gmail.com>[m
+Date:   Tue Oct 11 10:46:14 2022 -0700[m
+[m
+    Added a few lines.[m
+[m
+[33mcommit a31d724fb73213f88b16270352ed85f75cd476d6[m[m
+Author: kamalabm <kamal.abm@gmail.com>[m
+Date:   Tue Oct 11 10:35:36 2022 -0700[m
+[m
+    index.md created[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit merge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hbbib  ggit status[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit merge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout master[15Dmerge new-feature[17Dbranch           [11Dstatusmerge new-feature[17Dlog              [14Dcommit -m "Added a new file."[29Dlog                          [26Dmerge new-feature[17Dstatus           [11Dbranchmerge new-feature[17Dcheckout master  [19D                   [19Dggit status[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit commit -m "Committing to branch."[?2004l
+On branch new-feature
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit chec     g  git commit -m "Committing to branch."[33Dbranch                           [27Dstatuscheckout master[15Dmerge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout master[15Dmerge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit merge new-feature[17Dcheckout master  [15Dmerge new-feature[17Dcommit -m "Committing to branch."[33Dbranch                           [27Dstatus[?2004l
+On branch new-feature
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit statusmerge new-feature[17Dcheckout master  [15Dmerge new-feature[17Dcommit -m "Committing to branch."[33Dbranch                           [27D[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branchstatusmerge new-feature[17Dcheckout master  [15Dmerge new-feature[17Dcommit -m "Committing to branch."[33Dbranch                           [27Dstatuscheckout master[15Dmerge new-feature[17Dbranch           [11Dstatusmerge new-feature[17Dlog              [14Dcommit -m "Added a new file."[28Dheckout master              [14D[15Dmerge new-feature[17Dbranch           [11Dstatuscheckout masternew-feature[20Dbranch -d new-feature[?2004l
+error: Cannot delete branch 'new-feature' checked out at '/Users/kamalaboumekhael/githubworkshop-20221011'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit commit -m " "comm    Committing to swith ch."[?2004l
+On branch new-feature
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit commit -m "Committing to switch."[32Dheckout master                  [18D[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout master               g  ggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit eh  checkout branch[?2004l
+error: pathspec 'branch' did not match any file(s) known to git
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout branch      master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit add new-directory[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit commit[?2004l
+On branch new-feature
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit branchcommitadd new-directory[17Dcheckout master  branch[15Dbranch         [9Dcheckout master[14Dommit -m "Committing to switch."[32Dheckout master                  [18D[15Dbranch -d new-feature[14D              [15Dstatusmerge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004h
