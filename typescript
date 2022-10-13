@@ -451,4 +451,232 @@ error: Your local changes to the following files would be overwritten by checkou
 	typescript
 Please commit your changes or stash them before you switch branches.
 Aborting
-[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004h
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit add typescript[1m [0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hi ggit commit -m "added typescript"[10DA[5C[10C "f"i"l"e"."[?2004l
+[new-feature b7ed995] Added typescript file.
+ 1 file changed, 200 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit a swi    g  g ggit merge new-feature[?2004l
+Already up to date.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hc ggit c bra   checko      branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout master[19D                   [19Dgit checkout master[19D                   [19Dggit commit [?2004l
+On branch new-feature
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit ignore typescript[1m [0m[0m [?2004l
+git: 'ignore' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch -d new= -feature[?2004l
+error: Cannot delete branch 'new-feature' checked out at '/Users/kamalaboumekhael/githubworkshop-20221011'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkin new-feature[?2004l
+git: 'checkin' is not a git command. See 'git --help'.
+
+The most similar commands are
+	check-ignore
+	checkout
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit check-ignore new-feau ture[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit check-ignore new-feature[19Din [5P[11C     [19Dbranch -d new-feature[?2004l
+error: Cannot delete branch 'new-feature' checked out at '/Users/kamalaboumekhael/githubworkshop-20221011'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  master[m[m
+* [32mnew-feature[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit branch[9D[4C      [1Cremote add origin http://github.com/kamalabm/test[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit remote -v[?2004l
+origin	http://github.com/kamalabm/test (fetch)
+origin	http://github.com/kamalabm/test (push)
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit btan   ranch -M main[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit push [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hccat ~/.sh   .ssh[1m/[0m[0m/
+[Jid_rsa       id_rsa.pub   known_hosts[A[0m[27m[24m[54Ccat ~/.ssh/[Kid_rsap id  .pub[1m [0m[0m [?2004l
+[Jssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDiyuV9VOE0I+TKTeuo7FBvA96p5dJWVxanzaQQunRi585EY/2K3U+J8rMiFCMY4cTpLmWYHrfDSZw0DUXaszhZfHnO8aoEm3n51552G3v8n+5S6JhFCiuF9g9hy0ztI+nrav2Ej9R9RPwdnnSitD3VhMveIHGdsHA+vAC/vEL8n9Nh6b2BQeILI0oBm5+8Ksu6Vgz06g4gIcCGarZcRN3O9Nipu6o3WwiC4Gnq3tPE93DhtVurOolwswr1d0VNpaPzdWDocy7bROh6PiUaoX2TqurI1CCmg0NvNmr1O05Prt3FlPYaW73FLtCv85Y2831Ntgg7FuJz7bbWvAPyAoZDeOAqEE4QqNEwhm35Ayo+luxxHiAt6rnqz5wNuJZS7wMqqvFXojv3aO/VDjL0RJ/uOmEadQ8OIdeh9rX9phZUde2fG2ygnL6V6+LbYkVdkGuRLZ8RYZwvddv/h2+LF/HS//5OSsSIK9lF140Zakh1cKSRFJWgjhw3V3wWsvdlJoU= kamalaboumekhael@Kamals-MacBook-Air.local
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hcat ~/.ssh/id_rsa.pub[21Dgi[2Cbranch           [11D -M main[14Dremote[2Cv     add origin http://github.com/kamalabm/test[52D[P[52C [53D[P[51C [52D[P[50C [51D[P[49C [50D[P[48C [49D[P[47C [48D[P[46C [47D[P[45C [46D[P[44C [45D[P[43C [44D[P[42C [43Dd[P[40C [42D[P[40C [41D[P[39C [40D[P[38C [39D[P[37C [38D[P[36C [37D[P[35C [36D[P[34C [35D[P[33C [34D[P[32C [33Dg http://github.com/kamalabm/test[32Dgi http://github.com/kamalabm/test[32Dt http://github.com/kamalabm/test[32D[1C http://github.com/kamalabm/test[32Dp http://github.com/kamalabm/test[32Du http://github.com/kamalabm/test[32Ds http://github.com/kamalabm/test[32Dh http://github.com/kamalabm/test[32D[1C http://github.com/kamalabm/test[32Dk http://github.com/kamalabm/test[32Da http://github.com/kamalabm/test[32Dm http://github.com/kamalabm/test[32Da http://github.com/kamalabm/test[32Dl http://github.com/kamalabm/test[32Da http://github.com/kamalabm/test[32Db http://github.com/kamalabm/test[32Dm http://github.com/kamalabm/test[32D@ http://github.com/kamalabm/test[32D[1C[1C[P[31C [32Dt[P[29C [31D[1C[P[28C [30D[P[28C [29D[P[27C [28D/[P[25C [27D[1C[P[24C [26D[P[24C [25D[?2004l
+fatal: 'kamalabm@github.com/kamalabm/test' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit push kamalabm@github.com/kamalabm/test:[8D[8P[25C        [33Dg@github.com:kamalabm/test[25Di@github.com:kamalabm/test[25Dt@github.com:kamalabm/test[25D[1C[24C[1C.git[?2004l
+The authenticity of host 'github.com (140.82.114.3)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,140.82.114.3' (ECDSA) to the list of known hosts.
+To github.com:kamalabm/test.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'git@github.com:kamalabm/test.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit pull[?2004l
+warning: redirecting to https://github.com/kamalabm/test/
+warning: no common commits
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), done.
+From http://github.com/kamalabm/test
+ * [new branch]      main       -> origin/main
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> main
+
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit pullsh git@github.com:kamalabm/test.git[?2004l
+To github.com:kamalabm/test.git
+ [31m! [rejected]       [m main -> main (non-fast-forward)
+[31merror: failed to push some refs to 'git@github.com:kamalabm/test.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggig  ggit status[?2004l
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit ch  checkout[?2004l
+M	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hlls[?2004l
+index.md	new-directory	new-file.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hppwd[?2004l
+/Users/kamalaboumekhael/githubworkshop-20221011
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hpwdls git branchcheckout[8Dstatus  push git@github.com:kamalabm/test.git[?2004l
+To github.com:kamalabm/test.git
+ [31m! [rejected]       [m main -> main (non-fast-forward)
+[31merror: failed to push some refs to 'git@github.com:kamalabm/test.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout main[?2004l
+M	typescript
+Already on 'main'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit checkout main[13Dpush git@github.com:kamalabm/test.git[?2004l
+Warning: Permanently added the ECDSA host key for IP address '140.82.114.4' to the list of known hosts.
+To github.com:kamalabm/test.git
+ [31m! [rejected]       [m main -> main (non-fast-forward)
+[31merror: failed to push some refs to 'git@github.com:kamalabm/test.git'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit checkout master[?2004l
+error: Your local changes to the following files would be overwritten by checkout:
+	typescript
+Please commit your changes or stash them before you switch branches.
+Aborting
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hb b ccoc  v ggit commit[?2004l
+On branch main
+Changes not staged for commit:
+	[31mmodified:   typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit branch checking[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit branch checking        [?2004l
+[?1h=  checking[m[m
+* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit branch check           checkin[?2004l
+git: 'checkin' is not a git command. See 'git --help'.
+
+The most similar commands are
+	check-ignore
+	checkout
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  checking[m[m
+* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004h[7mgit remote add origin[27m[21D[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn [7mgit@github.com:kamalabm/test.git[27m[32D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mk[27ma[27mm[27ma[27ml[27ma[27mb[27mm[27m/[27mt[27me[27ms[27mt[27m.[27mg[27mi[27mt[?2004l
+fatal: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit remote -v[?2004l
+origin	http://github.com/kamalabm/test (fetch)
+origin	http://github.com/kamalabm/test (push)
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit push -u origin main[?2004l
+Username for 'https://github.com': kamalabm
+Password for 'https://kamalabm@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/kamalabm/test/'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit push -u origin main[19Dremote -v          [10Dadd origin git@github.com:kamalabm/test.git[50Dbranch                                            [44Dremote add origin git@github.com:kamalabm/test.git[43D-v                                         [41D[9Dpush -u origin main[23D                       [23Dgit push -u origin main[?2004l
+Username for 'https://github.com': kamalabm
+Password for 'https://kamalabm@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/kamalabm/test/'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004h[7mTgdXzhSUMMa66Z@[27m[15D[27mT[27mg[27md[27mX[27mz[27mh[27mS[27mU[27mM[27mM[27ma[27m6[27m6[27mZ[27m@[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hgit push -u origin main[?2004l
+Username for 'https://github.com': TgdXzhSUMMa66Z@===============                              kamalabm
+Password for 'https://kamalabm@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/kamalabm/test/'
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hppwd[?2004l
+/Users/kamalaboumekhael/githubworkshop-20221011
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hlls[?2004l
+index.md	new-directory	new-file.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hvvrv  bbranch[?2004l
+zsh: command not found: branch
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hggit branch[?2004l
+[?1h=  checking[m[m
+* [32mmain[m[m
+  master[m[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hffof  mmkdir fork[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hccd fork[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011/fork[0m[27m[24m[Jkamalaboumekhael@Kamals-Air fork % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011 % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael[0m[27m[24m[Jkamalaboumekhael@Kamals-Air ~ % [K[?2004hmmkdir githubworkshop-f 202221  1011-sandbork[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael[0m[27m[24m[Jkamalaboumekhael@Kamals-Air ~ % [K[?2004hccd *sand*githubworkshop-20221011-sandbork[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011-sandbork % [K[?2004h[7mgit clone https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.g[7mi[7mt[27m[K[A[61C[27mg[27mi[27mt[27m [27mc[27ml[27mo[27mn[27me[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mY[27mO[27mU[27mR[27m_[27mG[27mI[27mT[27mH[27mU[27mB[27m_[27mU[27mS[27mE[27mR[27mN[27mA[27mM[27mE[27m/[27mR[27mE[27mP[27mO[27mS[27mI[27mT[27mO[27mR[27mY[27m_[27mN[27mA[27mM[27mE[27m.[27mgi[27mt[A[127C[15D[20D[1C[3C[1C[20P[18Cit[K[1B[K[A[92Ck/REPOSITORY_NAME.git[20Da/REPOSITORY_NAME.git[20Dm/REPOSITORY_NAME.git[20Da/REPOSITORY_NAME.git[20Dl/REPOSITORY_NAME.git[20Da/REPOSITORY_NAME.git[20Db/REPOSITORY_NAME.git[20Dm/REPOSITORY_NAME.git[20D                                               [48D[1C [7mh[7mttps://github.com/shf/sandbox[27m [30D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ms[27mh[27mf[27m/[27ms[27ma[27mn[27md[27mb[27mo[27mx[39D[4C[6Ct[P[29C [31D[1C[P[28C [30D[P[28C [29D[P[27C [28D[P[26C [27D/[P[24C [26D[1C[P[23C [25D[P[23C [24D[1Cgithub.com/shf/sandbox [23Digithub.com/shf/sandbox [23Dtgithub.com/shf/sandbox [23D@github.com/shf/sandbox [23D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1Cr:[?2004l[1BCloning into 'sandbox'...
+Warning: Permanently added the ECDSA host key for IP address '140.82.112.3' to the list of known hosts.
+remote: Enumerating objects: 18, done.[K
+remote: Counting objects:   5% (1/18)[Kremote: Counting objects:  11% (2/18)[Kremote: Counting objects:  16% (3/18)[Kremote: Counting objects:  22% (4/18)[Kremote: Counting objects:  27% (5/18)[Kremote: Counting objects:  33% (6/18)[Kremote: Counting objects:  38% (7/18)[Kremote: Counting objects:  44% (8/18)[Kremote: Counting objects:  50% (9/18)[Kremote: Counting objects:  55% (10/18)[Kremote: Counting objects:  61% (11/18)[Kremote: Counting objects:  66% (12/18)[Kremote: Counting objects:  72% (13/18)[Kremote: Counting objects:  77% (14/18)[Kremote: Counting objects:  83% (15/18)[Kremote: Counting objects:  88% (16/18)[Kremote: Counting objects:  94% (17/18)[Kremote: Counting objects: 100% (18/18)[Kremote: Counting objects: 100% (18/18), done.[K
+remote: Compressing objects:   7% (1/14)[Kremote: Compressing objects:  14% (2/14)[Kremote: Compressing objects:  21% (3/14)[Kremote: Compressing objects:  28% (4/14)[Kremote: Compressing objects:  35% (5/14)[Kremote: Compressing objects:  42% (6/14)[Kremote: Compressing objects:  50% (7/14)[Kremote: Compressing objects:  57% (8/14)[Kremote: Compressing objects:  64% (9/14)[Kremote: Compressing objects:  71% (10/14)[Kremote: Compressing objects:  78% (11/14)[Kremote: Compressing objects:  85% (12/14)[Kremote: Compressing objects:  92% (13/14)[Kremote: Compressing objects: 100% (14/14)[Kremote: Compressing objects: 100% (14/14), done.[K
+Receiving objects:   5% (1/18)Receiving objects:  11% (2/18)Receiving objects:  16% (3/18)Receiving objects:  22% (4/18)Receiving objects:  27% (5/18)Receiving objects:  33% (6/18)Receiving objects:  38% (7/18)Receiving objects:  44% (8/18)Receiving objects:  50% (9/18)Receiving objects:  55% (10/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  61% (11/18), 1.03 MiB | 2.04 MiB/sremote: Total 18 (delta 3), reused 18 (delta 3), pack-reused 0[K
+Receiving objects:  66% (12/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  72% (13/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  77% (14/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  83% (15/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  88% (16/18), 1.03 MiB | 2.04 MiB/sReceiving objects:  94% (17/18), 1.03 MiB | 2.04 MiB/sReceiving objects: 100% (18/18), 1.03 MiB | 2.04 MiB/sReceiving objects: 100% (18/18), 1.61 MiB | 2.54 MiB/s, done.
+Resolving deltas:   0% (0/3)Resolving deltas:  33% (1/3)Resolving deltas: 100% (3/3)Resolving deltas: 100% (3/3), done.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011-sandbork % [K[?2004hlls[?2004l
+sandbox
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork[0m[27m[24m[Jkamalaboumekhael@Kamals-Air githubworkshop-20221011-sandbork % [K[?2004hccd sandbox[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox[0m[27m[24m[Jkamalaboumekhael@Kamals-Air sandbox % [K[?2004hlls[?2004l
+articles	figures
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox[0m[27m[24m[Jkamalaboumekhael@Kamals-Air sandbox % [K[?2004hccd articles[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox/articles[0m[27m[24m[Jkamalaboumekhael@Kamals-Air articles % [K[?2004hlls[?2004l
+2022-09-21-UBC How the largest migration on Earth might help combat climate change.txt
+2022-09-23-UBC researcher creates wood-based alternative to single-use plastic.txt
+2022-09-27-National survey of abortion care providers shows access has improved.txt
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox/articles[0m[27m[24m[Jkamalaboumekhael@Kamals-Air articles % [K[?2004httouch 2022- -10-11-Introduction.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox/articles[0m[27m[24m[Jkamalaboumekhael@Kamals-Air articles % [K[?2004hggit push[8Dtouch 2022-10-11-Introduction.txt[33Dls                               [31Dcd articles[11Dls         [9Dcd sandbox[10Dls        [8Dgit clone git@github.com:shf/sandbox [36D[4C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox/articles[0m[27m[24m[Jkamalaboumekhael@Kamals-Air articles % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox[0m[27m[24m[Jkamalaboumekhael@Kamals-Air sandbox % [K[?2004hggit cd ..touch 2022-10-11-Introduction.txt[33Dls                               [31Dcd articles[11Dls         [9Dcd sandbox[10Dls        [8Dgit clone git@github.com:shf/sandbox [36D[4C[6P[27C      [33Dpgit@github.com:shf/sandbox [27Dugit@github.com:shf/sandbox [27Dsgit@github.com:shf/sandbox [27Dhgit@github.com:shf/sandbox [27D git@github.com:shf/sandbox [27D[?2004l
+Warning: Permanently added the ECDSA host key for IP address '140.82.112.4' to the list of known hosts.
+ERROR: Permission to shf/sandbox.git denied to kamalabm.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                                  ]7;file://Kamals-Air.hitronhub.home/Users/kamalaboumekhael/githubworkshop-20221011-sandbork/sandbox[0m[27m[24m[Jkamalaboumekhael@Kamals-Air sandbox % [K[?2004hgit push git@github.com:shf/sandbox 
